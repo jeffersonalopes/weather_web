@@ -1,7 +1,7 @@
 
 <center>
-    Weather Web
-    <img src="https://ibb.co/QXbV2xw">
+    <h1>Weather Web</h1>
+    <img src="https://user-images.githubusercontent.com/29307282/58775602-a324c880-859c-11e9-8295-c01781f7c9a2.PNG">
 </center>
 
 
